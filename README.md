@@ -1,2 +1,2 @@
 # decryptencryptcpp
-A CPP project I had made quite a long while ago.
+A C++ project I had made quite a long while ago.
